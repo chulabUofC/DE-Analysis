@@ -1,4 +1,4 @@
-#MDSC 528 12Sep2023
+# 2024-07-27  by SR
 #HES7 mutation (R25W aa or C73T nt)  
 #Sub789: 23 samples, (WT x 4 , homo mutants, rescue) 
 #Sub789_23samples_EC rename_rescueClones
